@@ -1,0 +1,40 @@
+body {
+    background-size: 100%;
+    background-repeat:no-repeat ;
+    background-image:url(image/tes.gif);
+    color: aqua;
+  }
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  figure{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
